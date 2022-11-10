@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  background-color:aqua;
+  background-image: url("Dark.jpg");
+  background-repeat: repeat-x  space;
+  background-size: cover ;
+    color: white;
+    
+    background-attachment: fixed;
+}
+
+h2,
+h1 {
+     
+  color: red;
+}
+
+div {
+  color:burlywood;
+}
+video{
+  border: red;
+}
