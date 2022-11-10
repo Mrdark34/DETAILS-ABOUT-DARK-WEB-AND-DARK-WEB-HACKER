@@ -8,7 +8,7 @@ body {
   background-color:aqua;
   background-image: url("Dark.jpg");
   background-repeat: repeat-x  space;
-  background-size: cover ;
+  background-size: space ;
     color: white;
     
     background-attachment: fixed;
